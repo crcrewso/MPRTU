@@ -13,4 +13,4 @@ I need a better name for this, any suggestions? The intent of this repository is
 | [PyBeam-QA](https://github.com/Quantico-Bullet/PyBeam-QA) | Front end for Pylinac to perform common analysis functions | Python/QT | |
 
 
-This project is licensed under CC BY-ND-NC
+This project is licensed under [CC BY-ND-NC](https://creativecommons.org/licenses/by-nc-nd/4.0/)
